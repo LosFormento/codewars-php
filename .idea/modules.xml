@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/codevats-php.iml" filepath="$PROJECT_DIR$/.idea/codevats-php.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/codewars-php.iml" filepath="$PROJECT_DIR$/.idea/codewars-php.iml" />
     </modules>
   </component>
 </project>
