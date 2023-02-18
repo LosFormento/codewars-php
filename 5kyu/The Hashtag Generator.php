@@ -9,7 +9,6 @@ Examples
 " Hello there thanks for trying my Kata"  =>  "#HelloThereThanksForTryingMyKata"
 "    Hello     World   "                  =>  "#HelloWorld"
 ""                                        =>  false*/
-
 function generateHashtag($str) {
     $res = preg_replace('/\s+/', ' ', trim($str));
     if(strlen($res) > 1){
